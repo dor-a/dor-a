@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dor-a
 - 👀 I’m interested in the DevOps world
-- 🌱 I’m currently learning K8s , CI/CD
-- 💞️ I’m looking to collaborate on OS DevOps projects
+- 🌱 I’m currently learning K8S , CI/CD in depth
+- 💞️ I’m looking to collaborate on DevOps projects
 
 
 <!---
